@@ -1,0 +1,17 @@
+Algoritmo "Meu nome"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
+
+Var
+          nome: caractere
+
+
+Inicio
+
+ Escreva ("Scrive il tuo nome")
+ Leia (nome)
+ Escreva("Molto piacere", nome)
+ 
+
+
+Fimalgoritmo
